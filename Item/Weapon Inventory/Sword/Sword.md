@@ -19,7 +19,6 @@ else { dv.span(grandparentFolderName); }
 - [[Blade of Fire]]
 - [[Blade of Water]]
 - [[Celestial Blessing]]
-- [[Description]]
 - [[Enhanced Sword]]
 - [[Fractured Sword]]
 - [[Refined Sword]]
