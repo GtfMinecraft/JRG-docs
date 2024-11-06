@@ -14,4 +14,8 @@ else { dv.span(grandparentFolderName); }
 
 %% End Waypoint %%
 
+## Spawn in The Unknown Land
+
 ## Going to Gravaris
+
+## Going to Skyria
