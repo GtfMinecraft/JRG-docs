@@ -1,17 +1,19 @@
 ## Geography
 Gravaris
-- chunky temple
-- canopy
+Presbyterian
+- 
+Chunky Temple
+- Earth Goddess
+- transform (like maze runner)
+Canopy
 - 
 
 ## Characteristic
-- power origin: ground and plants
-- species: Terran (dwarf)
-- personality: easy-going, fear of dark
-- color: ochre, green
-- subelement: metal, herbs
-- strength: mining, potion
+- Power Origin: ground and plants
+- Species: Terran (dwarf)
+- Personality: easy-going, fear of dark
+- Color: ochre, green
+- Subelement: metal, herbs
+- Strength: mining, potion
 
 ## Ability
-
-## Habitants

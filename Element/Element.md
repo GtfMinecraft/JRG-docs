@@ -14,7 +14,9 @@ else { dv.span(grandparentFolderName); }
 - [[Dark]]
 - [[Earth]]
 - [[Fire]]
+- [[Riot]]
 - [[Water]]
+- [[Wither]]
 
 %% End Waypoint %%
 

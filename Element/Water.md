@@ -1,15 +1,13 @@
 ## Geography
 Marisol
-- murmur seashore
+- Murmur Seashore
 
 ## Characteristic
-- power origin: sea and humidity
-- species: Aqualis (mermaid/snake)
-- personality: loving, compassionate, discomforted by fire's rage
-- color: blue, navy
-- subelement: ice, fog
-- strength: farming
+- Power Origin: sea and humidity
+- Species: Aqualis (mermaid/snake)
+- Personality: loving, compassionate, discomforted by fire's rage
+- Color: blue, navy
+- Subelement: ice, fog
+- Strength: farming
 
 ## Ability
-
-## Habitants
