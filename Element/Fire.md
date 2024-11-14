@@ -6,7 +6,7 @@ Flamora
 
 ## Characteristic
 - Power origin: temperature
-- Species: Pyrrithians (fire man)
+- Species: Pyrrithian (fire man)
 - Personality: raging, combative, regard water as weaklings, and think air and earth are too ignorant
 - Color: red, orange
 - Subelement: lava, ash
