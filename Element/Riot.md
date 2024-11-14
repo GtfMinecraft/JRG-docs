@@ -1,6 +1,6 @@
 ## Geography
 (Terra Nullius)
-The Great Dessert (fire, earth)
+Great Desert (fire, earth)
 - 
 - 
 The Unfound Land (earth, dark)
