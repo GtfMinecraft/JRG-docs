@@ -10,12 +10,34 @@ if (dv.page(grandparentFolderNotePath)) {
 else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
-
+- [[Entering Gravaris]]
+- [[Meet the Terran King]]
+- [[Narrow Escape]]
 
 %% End Waypoint %%
 
-## Spawn in The Unknown Land
+## Spawn in Flamora
+Player teleports to the element world.
 
-## Going to Gravaris
+> Characters: [[Dev]], [[Player]], [[Pyrrithian Guards]]
+> Items: 
+> Events: [[Narrow Escape]]
 
-## Going to Skyria
+## The Great Desert
+Entered the Great Desert.
+
+> Characters: [[Player]], [[Dev]]
+> Items: 
+> Events: 
+## Enter Gravaris
+Player saw the King and became part of Earth.
+
+> Characters: [[Player]], [[Terran King]], [[Terrans]]
+> Items: 
+> Events: [[Entering Gravaris]], [[Meet the Terran King]]
+
+## Nexus
+
+## Skyria
+
+## 
