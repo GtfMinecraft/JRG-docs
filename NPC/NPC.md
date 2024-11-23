@@ -11,7 +11,6 @@ else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
 - **Air**
-- [[Bot]]
 - **Bug**
 - **Dark**
 - [[Dev]]
