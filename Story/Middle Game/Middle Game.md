@@ -19,7 +19,7 @@ else { dv.span(grandparentFolderName); }
 ## Spawn in Flamora
 Player teleports to the element world.
 
-> Characters: [[Dev]], [[Player]], [[Pyrrithian Guards]]
+> Characters: [[Player]], [[Dev]], [[Pyrrithian Guards]]
 > Items: 
 > Events: [[Narrow Escape]]
 
@@ -35,9 +35,37 @@ Player saw the King and became part of Earth.
 
 > Characters: [[Player]], [[Terran King]], [[Terrans]]
 > Items: 
-> Events: [[Entering Gravaris]], [[Meet the Terran King]]
+> Events: [[Entering Gravaris]], [[Meet the Terran King]], [[Earth Element Acquired]]
+
+## Explore Gravaris
+A day as part of Earth.
+
+> Characters: [[Player]], [[Terrans]]
+> Items: 
+> Events: [[Hospitable Neighbor]]
+
+## Dev's Return
+Audio bug happened, Dev added Skyria and Nexus.
+
+> Characters: [[Player]], [[Dev]]
+> Items: 
+> Events: [[Audio Bug]], [[Two New Regions]], [[Dev's Plan Onward]]
+
+## King's Missive
+Player gets Terran King's missive, allowing Player to visit Skyria, and Player teleports to Nexus.
+
+> Characters: [[Player]], [[Terran King]]
+> Items: 
+> Events: [[King's Missive for Skyria]], [[Teleportation to Nexus]]
 
 ## Nexus
+The prosperous city for all elements, player sees the treaty and understand world structure.
+
+> Characters: [[Player]]
+> Items: 
+> Events: [[A Grandiose City around the Treaty]]
+
+## History of the Treaty
 
 ## Skyria
 
