@@ -29,6 +29,7 @@ Entered the Great Desert.
 > Characters: [[Player]], [[Dev]]
 > Items: 
 > Events: 
+
 ## Enter Gravaris
 Player saw the King and became part of Earth.
 
