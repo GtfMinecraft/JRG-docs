@@ -13,6 +13,10 @@ else { dv.span(grandparentFolderName); }
 - **[[Early Game]]**
 - **[[End Game]]**
 - **[[Middle Game]]**
+- **[[Story thoughts]]**
+	- [[Elements' Territory]]
+	- [[Outline]]
+	- [[The War]]
 
 %% End Waypoint %%
 
