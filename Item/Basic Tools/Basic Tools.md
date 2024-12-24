@@ -10,8 +10,11 @@ if (dv.page(grandparentFolderNotePath)) {
 else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
-- **[[Bow]]**
-- **[[Sword]]**
+- [[Enhanced Sword]]
+- [[Fractured Axe]]
+- [[Fractured Bow]]
+- [[Fractured Sword]]
+- [[Refined Sword]]
 
 %% End Waypoint %%
 

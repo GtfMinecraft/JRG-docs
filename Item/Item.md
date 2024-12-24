@@ -10,16 +10,13 @@ if (dv.page(grandparentFolderNotePath)) {
 else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
-- **[[Axe Inventory]]**
-- [[Basic Tools]]
-- **[[Food Inventory]]**
-- **[[Gear Inventory]]**
-- **[[Hoe Inventory]]**
-- **[[NPC Item]]**
-- **[[Pickaxe Inventory]]**
-- **[[Rod Inventory]]**
-- **[[Storage Inventory]]**
-- **[[Weapon Inventory]]**
+- **[[Basic Tools]]**
+- **[[Crafted Items]]**
+- **[[Element Tools]]**
+- **[[Food]]**
+- **[[Gear]]**
+- **[[NPC Items]]**
+- **[[Resrouces]]**
 
 %% End Waypoint %%
 

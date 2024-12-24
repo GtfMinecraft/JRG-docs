@@ -10,7 +10,15 @@ if (dv.page(grandparentFolderNotePath)) {
 else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
-
+- [[Ancestral Katana]]
+- [[Blade of Air]]
+- [[Blade of Dark]]
+- [[Blade of Earth]]
+- [[Blade of Element]]
+- [[Blade of Eternal Legacy]]
+- [[Blade of Fire]]
+- [[Blade of Water]]
+- [[Celestial Blessing]]
 
 %% End Waypoint %%
 
