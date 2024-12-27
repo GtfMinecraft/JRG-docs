@@ -1,6 +1,6 @@
 
 ## Player's Obective
-The player's main objective is to collect all five / six (with or without wither) <mark style="background: #BBFABBA6;">Element Kernels</mark> and restore the treaty, thus bring true peace to the world.
+The player's main objective is to collect all five / six (with or without wither) <mark class="hltr-green">Element Kernels</mark> and restore the treaty, thus bring true peace to the world.
 ###### 崩壞:星穹鐵道中，有一段劇情設計很有趣。
 	目標是打爆一個嘴很臭的三流反派。
 	這段劇情有趣的點在於，我有四種方法可以打敗他。

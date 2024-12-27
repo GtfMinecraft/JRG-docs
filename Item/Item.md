@@ -16,7 +16,7 @@ else { dv.span(grandparentFolderName); }
 - **[[Food]]**
 - **[[Gear]]**
 - **[[NPC Items]]**
-- **[[Resrouces]]**
+- **[[Resources]]**
 
 %% End Waypoint %%
 
