@@ -1,4 +1,5 @@
 ## Personality
+Starts by not caring about NPCs in the game to lending a caring heart to those he created. Quite forgetful and often misses bugs and errors.
 
 ## Event
 
