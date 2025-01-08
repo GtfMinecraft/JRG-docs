@@ -10,9 +10,14 @@ if (dv.page(grandparentFolderNotePath)) {
 else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
-- [[Entering Gravaris]]
-- [[Meet the Terran King]]
-- [[Narrow Escape]]
+- [[A Tour in Nexus]]
+- [[Earth Blessing Acquired]]
+- [[Enter Gravaris]]
+- [[Explore Gravaris]]
+- [[King's Missive]]
+- [[Nexus and Water Territory]]
+- [[Spawn in Flamora]]
+- [[The Great Desert]]
 
 %% End Waypoint %%
 
