@@ -16,57 +16,30 @@ else { dv.span(grandparentFolderName); }
 
 %% End Waypoint %%
 
-## Spawn in Flamora
+## [[Spawn in Flamora]]
 Player teleports to the element world.
 
-> Characters: [[Player]], [[Dev]], [[Pyrrithian Guards]]
-> Items: 
-> Events: [[Narrow Escape]]
-
-## The Great Desert
+## [[The Great Desert]]
 Entered the Great Desert.
 
-> Characters: [[Player]], [[Dev]]
-> Items: 
-> Events: 
-
-## Enter Gravaris
+## [[Enter Gravaris]]
 Player saw the King and became part of Earth.
 
-> Characters: [[Player]], [[Terran King]], [[Terrans]]
-> Items: 
-> Events: [[Entering Gravaris]], [[Meet the Terran King]], [[Earth Element Acquired]]
+## [[Earth Blessing Acquired]]
+Player acquired Earth element from Earth Temple.
 
-## Explore Gravaris
+## [[Explore Gravaris]]
 A day as part of Earth.
 
-> Characters: [[Player]], [[Terrans]]
-> Items: 
-> Events: [[Hospitable Neighbor]]
+## [[Nexus and Water Territory]]
+Audio bug happened, Dev added Marisol and Nexus.
 
-## Dev's Return
-Audio bug happened, Dev added Skyria and Nexus.
+## [[King's Missive]]
+Player gets Terran King's missive, allowing Player to visit Marisol, and Player teleports to Nexus.
 
-> Characters: [[Player]], [[Dev]]
-> Items: 
-> Events: [[Audio Bug]], [[Two New Regions]], [[Dev's Plan Onward]]
-
-## King's Missive
-Player gets Terran King's missive, allowing Player to visit Skyria, and Player teleports to Nexus.
-
-> Characters: [[Player]], [[Terran King]]
-> Items: 
-> Events: [[King's Missive for Skyria]], [[Teleportation to Nexus]]
-
-## Nexus
+## [[A Tour in Nexus]]
 The prosperous city for all elements, player sees the treaty and understand world structure.
 
-> Characters: [[Player]]
-> Items: 
-> Events: [[A Grandiose City around the Treaty]]
+## [[History of the Treaty]]
 
-## History of the Treaty
-
-## Skyria
-
-## 
+## [[Skyria]]

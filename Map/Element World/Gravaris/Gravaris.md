@@ -10,21 +10,7 @@ if (dv.page(grandparentFolderNotePath)) {
 else { dv.span(grandparentFolderName); }
 ```
 %% Begin Waypoint %%
-- [[Background Story]]
-- [[Chunk Exploration]]
-- [[Exploring Starting Chunk]]
-- [[Unlocking New Chunks]]
+
 
 %% End Waypoint %%
 
-## [[Background Story]]
-Played at the start of the game.
-
-## [[Exploring Starting Chunk]]
-Encounter Bot, introduce potion and item wheel, chop wood.
-
-## [[Unlocking New Chunks]]
-Dev return, added new chunks, introduce to inventory, chunk unlocking, and tool wheel.
-
-## [[Chunk Exploration]]
-Player is allowed to explore combat, mining, farming, and fishing chunks.

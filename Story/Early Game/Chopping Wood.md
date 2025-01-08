@@ -1,1 +1,0 @@
-The bot then leads the player into the woods. "Bee~PooPiBooBi~" said the bot. "So let's chop some woods, shall we?" said the player <mark class="hltr-cyan">with a enthusiastic tone</mark>. Then he raised the axe and started chopping woods. 
