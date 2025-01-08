@@ -16,30 +16,16 @@ else { dv.span(grandparentFolderName); }
 
 %% End Waypoint %%
 
-## [[Spawn in Flamora]]
-Player teleports to the element world.
+## Main Quest
+- [[Spawn in Flamora]]: Player teleports to the element world.
+- [[The Great Desert]]: Entered the Great Desert.
+- [[Enter Gravaris]]: Player saw the King and became part of Earth.
+- [[Earth Blessing Acquired]]: Player acquired Earth element from Earth Temple.
+-  [[Explore Gravaris]]: A day as part of Earth.
+- [[Nexus and Water Territory]]: Audio bug happened, Dev added Marisol and Nexus.
+- [[King's Missive]]: Player gets Terran King's missive, allowing Player to visit Marisol, and Player teleports to Nexus.
+- [[A Tour in Nexus]]: The prosperous city for all elements, player sees the treaty and understand world structure.
+- [[History of the Treaty]]
+- [[The Trip to Marisol]]
 
-## [[The Great Desert]]
-Entered the Great Desert.
-
-## [[Enter Gravaris]]
-Player saw the King and became part of Earth.
-
-## [[Earth Blessing Acquired]]
-Player acquired Earth element from Earth Temple.
-
-## [[Explore Gravaris]]
-A day as part of Earth.
-
-## [[Nexus and Water Territory]]
-Audio bug happened, Dev added Marisol and Nexus.
-
-## [[King's Missive]]
-Player gets Terran King's missive, allowing Player to visit Marisol, and Player teleports to Nexus.
-
-## [[A Tour in Nexus]]
-The prosperous city for all elements, player sees the treaty and understand world structure.
-
-## [[History of the Treaty]]
-
-## [[Skyria]]
+## Side Quest

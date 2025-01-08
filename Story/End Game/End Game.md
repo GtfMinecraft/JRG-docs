@@ -14,3 +14,6 @@ else { dv.span(grandparentFolderName); }
 
 %% End Waypoint %%
 
+## Main Quest
+
+## Side Quest

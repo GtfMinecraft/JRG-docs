@@ -17,14 +17,10 @@ else { dv.span(grandparentFolderName); }
 
 %% End Waypoint %%
 
-## [[Background Story]]
-Played at the start of the game.
+## Main Quest
+- [[Background Story]]: Played at the start of the game.
+- [[Exploring Starting Chunk]]: Encounter Bot, introduce potion and item wheel, chop wood.
+- [[Unlocking New Chunks]]: Dev return, added new chunks, introduce to inventory, chunk unlocking, and tool wheel.
+- [[Chunk Exploration]]: Player is allowed to explore combat, mining, farming, and fishing chunks.
 
-## [[Exploring Starting Chunk]]
-Encounter Bot, introduce potion and item wheel, chop wood.
-
-## [[Unlocking New Chunks]]
-Dev return, added new chunks, introduce to inventory, chunk unlocking, and tool wheel.
-
-## [[Chunk Exploration]]
-Player is allowed to explore combat, mining, farming, and fishing chunks.
+## Side Quest
